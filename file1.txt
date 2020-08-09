@@ -1,2 +1,4 @@
 line1 master
 line2 mybranch
+line2 master:wq!
+
